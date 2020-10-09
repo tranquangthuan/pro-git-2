@@ -1,0 +1,2 @@
+Master text file
+Line 2 in master file
