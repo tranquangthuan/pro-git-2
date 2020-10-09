@@ -2,3 +2,4 @@ Master text file
 Line 2 in master file
 line 3
 line 4
+line 5
